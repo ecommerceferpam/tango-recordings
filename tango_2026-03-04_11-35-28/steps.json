@@ -1,0 +1,32 @@
+[
+  {
+    "number": 1,
+    "kind": "click",
+    "timestamp": 1772634940.1860044,
+    "window_title": "C:\\Windows\\system32\\cmd.exe",
+    "description": "Clique (left) em (170, 447).",
+    "screenshot": "steps/step_001.png",
+    "x": 170,
+    "y": 447,
+    "button": "left",
+    "scroll_dx": null,
+    "scroll_dy": null,
+    "typed_text": null,
+    "human_time": "11:35:40"
+  },
+  {
+    "number": 2,
+    "kind": "click",
+    "timestamp": 1772634943.6434667,
+    "window_title": "WhatsApp Image 2026-03-04 at 09.47.19.jpeg",
+    "description": "Clique (left) em (859, 535).",
+    "screenshot": "steps/step_002.png",
+    "x": 859,
+    "y": 535,
+    "button": "left",
+    "scroll_dx": null,
+    "scroll_dy": null,
+    "typed_text": null,
+    "human_time": "11:35:43"
+  }
+]
