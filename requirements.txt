@@ -1,0 +1,5 @@
+pyautogui
+pynput
+pillow
+jinja2
+pygetwindow
